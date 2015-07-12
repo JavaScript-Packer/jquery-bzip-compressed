@@ -52,7 +52,7 @@ Here are comparisons to smallest files you get from Jquery site:
 * 116,160 jquery.mobile-1.2.1.min.js
 * 200,143 jquery.mobile-1.4.5.min.js
 
-### Compress your own stuff for client side decompression (embed CSS, JS and images with dataURI URLs):
+### Compress your own stuff for client side decompression:
 
 Compress JavaScript:
 www.whak.ca/packer/JavaScript.htm
@@ -62,3 +62,7 @@ www.whak.ca/packer/HTML.htm
 
 Compress CSS:
 www.whak.ca/packer/CSS.htm
+
+### TIPS
+
+# embed CSS, JS and images with dataURI URLs into a web page before compressing
