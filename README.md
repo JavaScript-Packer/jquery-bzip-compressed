@@ -1,7 +1,7 @@
 # jquery-bzip-compressed
 These are the smallest possible JQuery files (full featured, nothing removed) in the World! They are compressed with bzip (setting at 9) and include a client side unpacker/decompressor/extractor.
 
-These were compiled/generated/created using online tool http://www.whak.ca/packer/
+These were compiled/generated/created using online tool www.whak.ca/packer/JavaScript.htm
 
 If I missed any popular releases, let me know :)
 
@@ -51,3 +51,9 @@ Here are comparisons to smallest files you get from Jquery site:
 * 95,513 jquery.mobile-1.1.2.min.js
 * 116,160 jquery.mobile-1.2.1.min.js
 * 200,143 jquery.mobile-1.4.5.min.js
+
+### Compress more stuff for client side decompression:
+
+www.whak.ca/packer/JavaScript.htm - compress JavaScript
+www.whak.ca/packer/HTML.htm - compress complete web pages
+www.whak.ca/packer/CSS.htm - compress CSS
