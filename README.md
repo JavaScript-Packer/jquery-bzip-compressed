@@ -28,3 +28,24 @@ Below are sizes for mobile versions:
 * 42,719 bytes for jquery.mobile-1.2.1.bzip.js
 * 50,575 bytes for jquery.mobile-1.3.2.bzip.js
 * 64,643 bytes for jquery.mobile-1.4.5.bzip.js
+
+Here are comparisons to smallest files you get from Jquery site:
+
+* 22,689 bytes for jquery-1.1.4.min.js
+* 93,113 bytes for jquery-1.10.2.min.js
+* 96,385 bytes for jquery-1.11.0.min.js
+* 95,931 bytes for jquery-1.11.2.min.js
+* 55,805 bytes for jquery-1.2.6.min.js
+* 57,272 bytes for jquery-1.3.2.min.js
+* 78,768 bytes for jquery-1.4.4.min.js
+* 85,940 bytes for jquery-1.5.2.min.js
+* 94,843 bytes for jquery-1.7.2.min.js
+* 93,637 bytes for jquery-1.8.3.min.js
+* 92,633 bytes for jquery-1.9.1.min.js
+* 83,618 bytes for jquery-2.0.3.min.js
+* 83,619 bytes for jquery-2.1.0.min.js
+* 84,320 bytes for jquery-2.1.3.min.js
+* 84,114 bytes for jquery-2.1.4.min.js
+* 95,513 jquery.mobile-1.1.2.min.js
+* 116,160 jquery.mobile-1.2.1.min.js
+* 200,143 jquery.mobile-1.4.5.min.js
