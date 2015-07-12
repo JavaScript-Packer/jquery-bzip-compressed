@@ -21,6 +21,8 @@ If I missed any popular releases, let me know :)
 * 38,590 bytes for jquery-2.1.3.bzip.js
 * 38,582 bytes for jquery-2.1.4.bzip.js
 
+Below are sizes for mobile versions:
+
 * 32,022 bytes for jquery.mobile-1.0.1.bzip.js
 * 35,914 bytes for jquery.mobile-1.1.2.bzip.js
 * 42,719 bytes for jquery.mobile-1.2.1.bzip.js
