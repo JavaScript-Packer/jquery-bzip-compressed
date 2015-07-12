@@ -54,6 +54,11 @@ Here are comparisons to smallest files you get from Jquery site:
 
 ### Compress more stuff for client side decompression:
 
-www.whak.ca/packer/JavaScript.htm - compress JavaScript
-www.whak.ca/packer/HTML.htm - compress complete web pages
-www.whak.ca/packer/CSS.htm - compress CSS
+Compress JavaScript:
+www.whak.ca/packer/JavaScript.htm
+
+Compress complete web pages:
+www.whak.ca/packer/HTML.htm
+
+Compress CSS:
+www.whak.ca/packer/CSS.htm
