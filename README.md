@@ -65,4 +65,4 @@ www.whak.ca/packer/CSS.htm
 
 ### TIPS
 
-# embed CSS, JS and images with dataURI URLs into a web page before compressing
+* embed CSS, JS and images with dataURI URLs into a web page before compressing
