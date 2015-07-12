@@ -29,7 +29,7 @@ Below are sizes for mobile versions:
 * 50,575 bytes for jquery.mobile-1.3.2.bzip.js
 * 64,643 bytes for jquery.mobile-1.4.5.bzip.js
 
-Server side compression will not help much with these (great for including/embedding into web apps, using on free hosting that has no compression, etc). They are super packed files that are already kicking gzip's ass for server side compressed size so why bother trying to make them smaller? To get a bit better compression server side, recode with modded base64 that I just came up with on https://gist.github.com/JavaScript-Packer/fe5c7357de460fcab5f2 (after making this collection)
+Server side compression will not help much with these (great for including/embedding into web apps, using on free hosting that has no compression, etc). They are super packed files that are already kicking gzip's ass for server side compressed size so why bother trying to make them smaller?
 
 Here are comparisons to smallest files you get from Jquery site:
 
